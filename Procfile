@@ -1,1 +1,1 @@
-web: java -jar target/demo-spring-kt-mvn-0.0.1-SNAPSHOT-exec.war
+web: java -jar target/demo-spring-kt-mvn-0.0.1-SNAPSHOT.war
