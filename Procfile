@@ -1,1 +1,1 @@
-web: java -jar build/libs/demo-spring-kt-mvn-0.0.1-SNAPSHOT.jar
+web: java -jar target/demo-spring-kt-mvn-0.0.1-SNAPSHOT.jar
