@@ -1,4 +1,4 @@
-package com.example.demo_spring_kt_mvn
+package top.abr.demo_spring_kt_mvn
 
 import org.springframework.boot.builder.SpringApplicationBuilder
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
